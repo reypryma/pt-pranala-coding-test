@@ -14,6 +14,14 @@ A Question and Answer
 4. Popup When Successfully Input String
 
 ## Demo Aplication
+1. Answer
+![question triangle](https://i.ibb.co/6Pm2MP9/image.png)
+
+2. Answer
+![question odd](https://i.ibb.co/BGQrnWq/image.png)
+
+3. Answer
+![question prime](https://i.ibb.co/BGrrN3d/image.png)
 
 
 
